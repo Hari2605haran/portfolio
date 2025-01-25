@@ -62,7 +62,7 @@ To run the website locally:
 ## 🌟 Live Demo
 
 You can view the live version of my portfolio at:  
-[**Your Portfolio Link**]([https://yourportfolio.com](https://hari2605haran.github.io/portfolio/))
+[Portfolio Link]([https://yourportfolio.com](https://hari2605haran.github.io/portfolio/))
 
 ---
 
@@ -80,8 +80,8 @@ Contributions are welcome! Feel free to:
 If you'd like to get in touch, feel free to reach out to me:
 
 - **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/))  
-- **GitHub**: [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Hari2605haran))  
+- LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/))  
+- GitHub: [GitHub Profile]([https://github.com/yourusername](https://github.com/Hari2605haran))  
 
 ---
 
