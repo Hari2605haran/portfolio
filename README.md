@@ -62,7 +62,7 @@ To run the website locally:
 ## 🌟 Live Demo
 
 You can view the live version of my portfolio at:  
-[Portfolio Link]([https://yourportfolio.com](https://hari2605haran.github.io/portfolio/))
+[[https://yourportfolio.com](https://hari2605haran.github.io/portfolio/]
 
 ---
 
