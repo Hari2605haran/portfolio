@@ -79,15 +79,15 @@ Contributions are welcome! Feel free to:
 
 If you'd like to get in touch, feel free to reach out to me:
 
-- **Email**: your.email@example.com  
-- LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/))  
-- GitHub: [GitHub Profile]([https://github.com/yourusername](https://github.com/Hari2605haran))  
+- Email: [harisudhanbv@gmai.com]  
+- LinkedIn: [https://www.linkedin.com/in/hariharasudhan-b-ab5039224/]  
+- GitHub: [https://github.com/Hari2605haran]
 
 ---
 
 ## 🖍️ License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the MIT License  
 Feel free to use it as a reference or base for your own portfolio!
 
 ---
