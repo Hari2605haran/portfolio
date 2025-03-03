@@ -14,6 +14,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Social Links: Links to my professional social media and GitHub profiles.
 
 ---
+Screenshot
+![Screenshot 2025-03-03 153947](https://github.com/user-attachments/assets/095bbe64-e037-4918-b24f-d9c916f5f674)
+
 
 ## 🔠 Built With
 
